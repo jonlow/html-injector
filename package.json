@@ -1,0 +1,16 @@
+{
+  "name": "html-inject",
+  "version": "1.0.0",
+  "description": "Testing the browsersync html injection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.2.1",
+    "bs-html-injector": "^1.2.1",
+    "gulp": "^3.8.11"
+  }
+}
